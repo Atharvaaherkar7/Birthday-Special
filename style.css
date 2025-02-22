@@ -247,8 +247,8 @@ img {
 .cardInside {
     position: absolute;
     background-color: #fff;
-    width: 1080px;
-    height: 1080px;
+    width: 250px;
+    height: 250px;
     z-index: -1;
     left: 0;
     top: 0;
